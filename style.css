@@ -1,6 +1,7 @@
 button {
     background-color: aqua;
     padding: 1rem;
+    margin: 100px;
 }
 p {
     background-color: blue;
